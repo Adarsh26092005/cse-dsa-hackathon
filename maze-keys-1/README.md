@@ -123,4 +123,6 @@ Developed as a Data Structures and Algorithms project demonstrating graph traver
 
 ## Maze Visualization
 
-![Maze solver showing the shortest path](screenshots/maze-solution.png)
+The following screenshot shows the shortest path found by the BFS solver, including key collection, locked doors, obstacles, and the exit.
+
+![Maze with Keys and Doors — Shortest Path](screenshots/maze-solution.png)
