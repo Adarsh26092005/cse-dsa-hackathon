@@ -120,3 +120,7 @@ For an N × N maze with T distinct key types, the worst-case time and space comp
 ## Author
 
 Developed as a Data Structures and Algorithms project demonstrating graph traversal, state-space search, bitmasking, and visualization.
+
+## Maze Visualization
+
+![Maze solver showing the shortest path](screenshots/maze-solution.png)
